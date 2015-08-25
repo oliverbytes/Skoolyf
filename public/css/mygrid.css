@@ -1,0 +1,66 @@
+.mygridbox
+{
+   background-color:white;
+   padding: 20px;
+   margin: 2px;
+   border: 1px solid #DEDEDE;
+   color: gray;
+   height: 320px;
+   border-radius: 5px;
+}
+
+.mygridbox2
+{
+   padding: 20px;
+   margin: 2px;
+   border: 1px solid #DEDEDE;
+   border-radius: 5px;
+}
+
+.mygridimage
+{
+   display: block;
+   width: 170px;
+   height: 170px;
+   margin-bottom: 10px;
+}
+
+.mygridname
+{
+   font-size: 14px;
+   color: gray;
+   margin: 0px;
+   padding: 0px;
+}
+
+.mygridmotto
+{
+   font-size: 10px;
+   color: gray;
+   font-style: italic;
+}
+
+/** YEARBOOK **/
+
+.yearbookimage
+{
+   display: block;
+   width: 240px;
+   height: 240px;
+   margin-bottom: 10px;
+}
+
+.yearbookname
+{
+   font-size: 25px;
+   color: gray;
+   margin: 0px;
+   padding: 0px;
+}
+
+.yearbookmotto
+{
+   font-size: 10px;
+   color: gray;
+   font-style: italic;
+}
